@@ -1,0 +1,70 @@
+
+:root {
+  --color-bg-1:#f8fafc;
+  --color-bg-2:#EF6A5B;
+  --color-bg: #102A43;
+  --color-surface: #102A43;
+  --color-card: #ffffff;
+  --color-text-main: #102A43;
+  --color-text-muted: #64748b;
+  --color-primary: #EF6A5B;
+  --color-primary-hover: #EF6A5B;
+  --color-border: #e2e8f0;
+
+  --radius-lg: 12px;
+  --radius-md: 8px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+
+  --font-header: "Playfair Display", serif;
+  --font-body: 'Inter', sans-serif;
+  --font-accent: 'JetBrains Mono', monospace;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  background-color: var(--color-bg-1);
+  color: var(--color-text-main);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  font-family: var(--font-body);
+}
+
+h1{
+  font-size: 3.25rem;
+}
+h1, h2, h3 {
+  font-family: var(--font-header);
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  color: var(--color-bg);
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+p, .badge, .post-meta, .pill {
+  font-family: var(--font-body);
+  font-size: 0.875rem;
+}
+
+
+.section-subtitle {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.5rem;
+}

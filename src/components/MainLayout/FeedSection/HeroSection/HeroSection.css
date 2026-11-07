@@ -1,0 +1,14 @@
+/* Hero Section */
+.hero {
+  margin-bottom: 2rem;
+}
+
+
+.hero h1 {
+  color: var(--color-bg);
+}
+
+.hero p {
+  color: var(--color-text-muted);
+}
+

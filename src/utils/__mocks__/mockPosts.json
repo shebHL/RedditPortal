@@ -1,0 +1,109 @@
+{
+  "kind": "Listing",
+  "data": {
+    "after": "t3_abcde5",
+    "before": null,
+    "children": [
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abcde1",
+          "name": "t3_abcde1",
+          "title": "React 19 just launched — here's everything you need to know",
+          "selftext": "Today marks the release of React 19 with new features like Actions, Form support, and improved performance. Let's dive into the details...",
+          "author": "dev_coder42",
+          "subreddit": "reactjs",
+          "score": 2489,
+          "upvote_ratio": 0.94,
+          "num_comments": 342,
+          "created_utc": 1730505600,
+          "url": "https://react.dev/blog/2024/04/25/react-19",
+          "permalink": "/r/reactjs/comments/abcde1/react_19_just_launched/",
+          "thumbnail": "https://example.com/thumb1.jpg",
+          "is_video": false,
+          "is_self": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abcde2",
+          "name": "t3_abcde2",
+          "title": "I built a Reddit client using Redux and Vite — here's my journey",
+          "selftext": "After two weeks of coding, I finally finished my first full React + Redux project. Here's what I learned about state management, async thunks, and responsive design...",
+          "author": "reddit_builder",
+          "subreddit": "learnprogramming",
+          "score": 876,
+          "upvote_ratio": 0.89,
+          "num_comments": 128,
+          "created_utc": 1730419200,
+          "url": "",
+          "permalink": "/r/learnprogramming/comments/abcde2/i_built_a_reddit_client_using_redux_and_vite/",
+          "thumbnail": "self",
+          "is_video": false,
+          "is_self": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abcde3",
+          "name": "t3_abcde3",
+          "title": "Why TypeScript is worth the learning curve — 6 months later",
+          "selftext": "",
+          "author": "ts_enthusiast",
+          "subreddit": "typescript",
+          "score": 1542,
+          "upvote_ratio": 0.92,
+          "num_comments": 205,
+          "created_utc": 1730332800,
+          "url": "https://medium.com/example/why-typescript-worth-it",
+          "permalink": "/r/typescript/comments/abcde3/why_typescript_is_worth_the_learning_curve/",
+          "thumbnail": "https://example.com/thumb3.jpg",
+          "is_video": false,
+          "is_self": false
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abcde4",
+          "name": "t3_abcde4",
+          "title": "The most useful VS Code extensions nobody talks about",
+          "selftext": "I've compiled a list of lesser-known extensions that have boosted my productivity by 200%. Which ones are missing from your setup?",
+          "author": "productivity_guru",
+          "subreddit": "webdev",
+          "score": 3214,
+          "upvote_ratio": 0.96,
+          "num_comments": 417,
+          "created_utc": 1730246400,
+          "url": "",
+          "permalink": "/r/webdev/comments/abcde4/the_most_useful_vscode_extensions_nobody_talks/",
+          "thumbnail": "self",
+          "is_video": false,
+          "is_self": true
+        }
+      },
+      {
+        "kind": "t3",
+        "data": {
+          "id": "abcde5",
+          "name": "t3_abcde5",
+          "title": "Just discovered this amazing CSS trick for centering elements",
+          "selftext": "After 10 years of coding, I finally found the cleanest solution: display: grid; place-items: center; Done.",
+          "author": "css_wizard",
+          "subreddit": "css",
+          "score": 567,
+          "upvote_ratio": 0.87,
+          "num_comments": 89,
+          "created_utc": 1730160000,
+          "url": "",
+          "permalink": "/r/css/comments/abcde5/just_discovered_this_amazing_css_trick_for_centering/",
+          "thumbnail": "self",
+          "is_video": false,
+          "is_self": true
+        }
+      }
+    ]
+  }
+}
